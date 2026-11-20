@@ -1,0 +1,4 @@
+streamlit
+tensorflow>=2.20   # model was saved with Keras 3.13 (TF 2.21 in Colab) - use the same or newer
+numpy
+pandas
